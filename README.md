@@ -1,7 +1,8 @@
 # RoboND-P9-Home-Service-Bot
- 
-Summary of Tasks
-Let’s summarize what should be done in this project to simulate a home service robot
+
+Final Project of Robot Software Engineer Degree at Udacity.
+
+Summary of Tasks to simulate a home service robot
 
 1. Design a simple environment with the Building Editor in Gazebo.
 2. Teleoperate your robot and manually test SLAM.
