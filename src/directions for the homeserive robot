@@ -1,0 +1,7 @@
+directions for the homeserive robot 
+
+$ cd /home/workspace/catkin_ws/
+$ catkin_make
+$ source ~/catkin_ws5/devel/setup.bash
+
+
